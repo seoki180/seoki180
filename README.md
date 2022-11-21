@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=WELCOME NY GITHUB&fontSize=20)
 - 👋 Hi, I’m @seoki180
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,7 +9,7 @@ seoki180/seoki180 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <center>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=WELCOME NY GITHUB&fontSize=20)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoki180)](https://solved.ac/seoki180)
 
