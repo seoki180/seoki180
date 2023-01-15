@@ -22,8 +22,5 @@
 
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoki180)](https://github.com/seoki180/github-readme-stats)
-
-
 <div align=center>
 
