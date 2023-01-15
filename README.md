@@ -5,6 +5,9 @@
 <p align="center">
 안녕하세요👐<br>
 인하대학교 다니는 서석희 입니다. 오셨다면 제 고양이라도 보고 가세요🐱<br>
+  
+About ME 🎯-------------------------
+
 </p>
 
 
@@ -20,6 +23,9 @@
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoki180)](https://solved.ac/seoki180)
 
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoki180)](https://github.com/seoki180/github-readme-stats)
 
 
 <div align=center>
