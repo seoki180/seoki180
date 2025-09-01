@@ -23,6 +23,7 @@
     <td style="vertical-align:top; border:none; padding:0;">
       <h3>📬 Contact</h3>
       <ul>
+         <li>📄 <a href="https://judicious-lemonade-cac.notion.site/1ff78d13a6f180d68017cd60d6d1ebb8?pvs=74">Profile</a></li></li>
         <li>📨 <a href="mailto:seoki180@inha.edu">Mail</a></li>
         <li>😎 <a href="https://www.instagram.com/tjtjrgml/">Instagram</a></li>
         <li>🔗 <a href="https://www.linkedin.com/in/%ED%95%99%EC%83%9D-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99-%EC%84%9C%EC%84%9D%ED%9D%AC-092150333/">LinkedIn</a></li>
@@ -40,16 +41,12 @@
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-## ⚙️ Tools
 <p align="center">
   <img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-
-## 🌐 Collaboration
 <p align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -57,7 +54,7 @@
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" />
 </p>
-
+</br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoki180&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seoki180"
