@@ -57,20 +57,20 @@
   <img src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 </br>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoki180&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/seoki180"
-  width="600"
-  height="300"
-/>
-</a>
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/825694059957404943/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoki180&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/seoki180" width="600" height="300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.gitanimals.org/">
+        <img src="https://render.gitanimals.org/guilds/825694059957404943/draw" width="600" height="300" alt="gitanimals" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 </div>
