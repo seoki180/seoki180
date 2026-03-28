@@ -58,6 +58,9 @@
 </p>
 </br>
 <div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=seoki180&hide_border=true&locale=ko)](https://git.io/streak-stats)
+   
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoki180&utm_content=farm">
         <img src="https://render.gitanimals.org/farms/seoki180" height="300" width="49%"/>
       </a>
@@ -65,6 +68,7 @@
         <img src="https://render.gitanimals.org/guilds/825694059957404943/draw" width="49%" height="300" alt="gitanimals" />
       </a>
 </div>
+
 
 </div>
 </div>
