@@ -17,6 +17,8 @@
       <ul>
         <li>Inha University, Computer Science Engineering</li>
         <li>UMC 8th Node.js Senior</li>
+        <li>UMC 9th Node.js Senior</li>
+        <li>UMC 10th Node.js Part Leader</li>
         <li>Doosan yonkang Foundation Scholarship</li>
       </ul>
     </td>
